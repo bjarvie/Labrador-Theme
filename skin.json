@@ -1,23 +1,30 @@
 {
-    "name": "Theme-Template",
-    "author": "Millennium",
-    "description": "An example template theme.",
+  "name": "Labrador-Theme",
+  "author": "Brock Jarvie",
+  "description": "Labrador Theme - Red, Purple, and White colors with custom images.",
 
-    "discord_support": {
-        "inviteCodeExcludingLink": "NcNMP6r2Cw"
-    },
-    "github": {
-        "owner": "SteamClientHomebrew",
-        "repo_name": "ThemeTemplate"
-    },
-    "header_image": "https://i.imgur.com/image_here.png",
-    "splash_image": "https://i.imgur.com/image_here.png",
-    "tags": [
-        "Example",
-        "Template"
-    ],
-    "version": "1.0.0",
+  "discord_support": {
+    "inviteCodeExcludingLink": "NcNMP6r2Cw"
+  },
 
-    "Steam-WebKit": "webkit.css",
-    "UseDefaultPatches": true
+  "github": {
+    "owner": "Brock_Jarvie",
+    "repo_name": "Labrador-Theme"
+  },
+
+  "header_image": "https://i.imgur.com/HEADER_IMAGE.png",
+  "splash_image": "https://i.imgur.com/SPLASH_IMAGE.png",
+
+  "tags": [
+    "Labrador",
+    "Red",
+    "Purple",
+    "Steam",
+    "Millennium"
+  ],
+
+  "version": "1.0.0",
+
+  "Steam-WebKit": "webkit.css",
+  "UseDefaultPatches": true
 }
